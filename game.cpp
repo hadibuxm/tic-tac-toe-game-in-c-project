@@ -345,7 +345,7 @@ bm = 'X';
         cout << "choose box " << endl;
         cout << "1. top left" << endl << "2.top middle" << endl << "3.top right" << endl;
         cout << "4. middle right" << endl << "5. middle" << endl << "6. middle left" << endl;
-        cout << "7. bottom right" << endl << "8.bottom middle" << endl << "9.bottom right" << endl;
+        cout << "7. bottom left" << endl << "8.bottom middle" << endl << "9.bottom right" << endl;
         cin >> choice;
         switch (choice) {
         case 1:tl = '1'; break;
